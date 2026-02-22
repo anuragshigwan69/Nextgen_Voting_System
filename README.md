@@ -236,7 +236,7 @@ Make sure the following are installed on your machine:
 **1. Clone the repository**
 
 ```bash
-git clone https://github.com/your-username/Nextgen_Voting_System.git
+git clone https://github.com/anuragshigwan69/Nextgen_Voting_System.git
 ```
 
 **2. Open Eclipse and import the project**
@@ -404,6 +404,6 @@ Built with ❤️ for secure and transparent college elections.
 
 ⭐ **If you found this project useful, please give it a star!** ⭐
 
-*For any issues or suggestions, feel free to open an [issue](https://github.com/your-username/Nextgen_Voting_System/issues).*
+*For any issues or suggestions, feel free to open an [issue](https://github.com/anuragshigwan69/Nextgen_Voting_System/issues).*
 
 </div>
