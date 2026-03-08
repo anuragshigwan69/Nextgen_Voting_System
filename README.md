@@ -397,6 +397,7 @@ This project is open-source and available under the [MIT License](LICENSE).
 ---
 
 ## 👨‍💻 Author
+anurag , vinayak , kaustubh
 
 <div align="center">
 
